@@ -1,0 +1,5 @@
+streamlit>=1.63,<2.0
+langchain>=1.0,<2.0
+langgraph>=1.0,<2.0
+langchain-openrouter>=0.2.8,<1.0
+python-dotenv>=1.0,<2.0
